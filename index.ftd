@@ -106,7 +106,7 @@ border-radius.px: 10
 ;;-----------------------------------------------------------------------------------------------------------------
 ;;----------------------------Change all the urls with your actuall url's------------------------------------------
 
--- profile.wrapper: Victor Crest
+-- profile.wrapper: soham ingole
 avatar: $assets.files.images.image-victor.jpg
 city: London
 github-url: https://www.github.com/
