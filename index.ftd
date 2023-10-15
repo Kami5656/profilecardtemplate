@@ -42,7 +42,7 @@ border-radius.px: 10
 ;;----------------------------Change all the urls with your actuall url's------------------------------------------
 
 -- profile.wrapper: soham ingole
-avatar: $assets.files.images.image-victor.jpg
+avatar: $assets.files.images.human.jpg
 city: nagpur
 github-url: https://github.com/Kami5656
 linkedin-url: https://www.linkedin.com/in/soham-ingole-b32926254/
